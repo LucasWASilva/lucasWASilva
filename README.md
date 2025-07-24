@@ -1,4 +1,4 @@
-<h3 align="left">👨‍💻 Lucas Silva | Desenvolvedor Fullstack</h3>
+<h2 align="left">👨‍💻 Lucas Silva | Desenvolvedor Fullstack</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🚀 O que entrego:</h3>
+<h2 align="left">🚀 O que entrego:</h2>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">🛠 Tech Stack e Hard Skills</h3>
+<h2 align="left">🛠 Tech Stack e Hard Skills</h2>
 
 ###
 
-<h5 align="left">Front End</h5>
+<h3 align="left">Front End</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h5 align="left">Back End</h5>
+<h3 align="left">Back End</h3>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<h5 align="left">Ferramentas:</h5>
+<h3 align="left">Ferramentas:</h3>
 
 ###
 
@@ -116,7 +116,7 @@
 
 ###
 
-<h3 align="left">⭐ Estatísticas do GitHub</h3>
+<h2 align="left">⭐ Estatísticas do GitHub</h2>
 
 ###
 
@@ -126,7 +126,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Linguagens mais usadas</h3>
+<h2 align="left">👨‍💻 Linguagens mais usadas</h2>
 
 ###
 
@@ -136,7 +136,7 @@
 
 ###
 
-<h3 align="left">📊 Projetos em destaque</h3>
+<h2 align="left">📊 Projetos em destaque</h2>
 
 ###
 
@@ -144,7 +144,7 @@
 
 ###
 
-<h3 align="left">🤝 Vamos nos conectar?</h3>
+<h2 align="left">🤝 Vamos nos conectar?</h2>
 
 ###
 
