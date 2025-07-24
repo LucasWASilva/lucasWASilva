@@ -1,4 +1,4 @@
-<h4 align="left">👨‍💻 Lucas Silva | Desenvolvedor Fullstack</h4>
+<h3 align="left">👨‍💻 Lucas Silva | Desenvolvedor Fullstack</h3>
 
 ###
 
@@ -6,17 +6,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h4 align="left">🚀 O que entrego:</h4>
+<h3 align="left">🚀 O que entrego:</h3>
 
 ###
 
@@ -24,7 +14,7 @@
 
 ###
 
-<h4 align="left">🛠 Tech Stack e Hard Skills</h4>
+<h3 align="left">🛠 Tech Stack e Hard Skills</h3>
 
 ###
 
@@ -126,7 +116,7 @@
 
 ###
 
-<h4 align="left">⭐ Estatísticas do GitHub</h4>
+<h3 align="left">⭐ Estatísticas do GitHub</h3>
 
 ###
 
@@ -136,7 +126,7 @@
 
 ###
 
-<h4 align="left">👨‍💻 Linguagens mais usadas</h4>
+<h3 align="left">👨‍💻 Linguagens mais usadas</h3>
 
 ###
 
@@ -146,7 +136,7 @@
 
 ###
 
-<h4 align="left">📊 Projetos em destaque</h4>
+<h3 align="left">📊 Projetos em destaque</h3>
 
 ###
 
@@ -154,7 +144,7 @@
 
 ###
 
-<h4 align="left">🤝 Vamos nos conectar?</h4>
+<h3 align="left">🤝 Vamos nos conectar?</h3>
 
 ###
 
