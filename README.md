@@ -1,8 +1,8 @@
-<h2 align="left">👨‍💻 Lucas Silva | Desenvolvedor Fullstack</h2>
+<h2 align="left">👨‍💻 Olá, eu sou o Lucas Silva</h2>
 
 ###
 
-<p align="left">Olá! Sou o Lucas, desenvolvedor fullstack com foco em front-end, especializado na criação de soluções digitais robustas, escaláveis e com foco em performance, usabilidade e conversão. Tenho atuado em projetos que envolvem desde plataformas EAD, sistemas de gestão interna e ERPs até portais jurídicos e escolares com múltiplos módulos e integrações.<br><br>Minha missão como dev é transformar processos manuais e desorganizados em soluções digitais inteligentes, seguras e intuitivas. Acredito que o código deve ser limpo, modular e com propósito claro: resolver problemas reais.</p>
+<p align="left">Sou Desenvolvedor Fullstack com foco em Front End e com sólida experiência na criação de sistemas web escaláveis, responsivos e modulares, sempre com foco em performance, segurança e experiência do usuário.<br><br>🔹 Atualmente atuo na **Secretaria de Administração Penitenciária do Estado do Pará (SEAP)**, desenvolvendo soluções digitais para transformação do setor público, integrando dados e melhorando a eficiência dos processos internos.<br><br>💡 Já desenvolvi plataformas completas para os setores de **educação, jurídico, energia solar, segurança pública e corporativo**, utilizando boas práticas como **POO, MVC, APIs REST** e arquitetura modular.</p>
 
 ###
 
@@ -190,19 +190,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=LucasWASilva&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
----
-
-🧩 *Obrigado por visitar meu perfil! Vamos nos conectar e trocar ideias sobre front-end, inovação e boas práticas em desenvolvimento.*
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
