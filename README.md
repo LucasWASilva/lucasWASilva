@@ -192,3 +192,7 @@
 </div>
 
 ###
+
+---
+
+🧩 *Obrigado por visitar meu perfil! Vamos nos conectar e trocar ideias sobre front-end, inovação e boas práticas em desenvolvimento.*
