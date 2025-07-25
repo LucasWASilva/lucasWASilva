@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Desenvolvedor Fullstack com foco em Front End e com sólida experiência na criação de sistemas web escaláveis, responsivos e modulares, sempre com foco em performance, segurança e experiência do usuário.<br><br>🔹 Atualmente atuo na **Secretaria de Administração Penitenciária do Estado do Pará (SEAP)**, desenvolvendo soluções digitais para transformação do setor público, integrando dados e melhorando a eficiência dos processos internos.<br><br>💡 Já desenvolvi plataformas completas para os setores de **educação, jurídico, energia solar, segurança pública e corporativo**, utilizando boas práticas como **POO, MVC, APIs REST** e arquitetura modular.</p>
+<p align="left">Sou Desenvolvedor Fullstack com sólida experiência na criação de sistemas web escaláveis, responsivos e modulares, sempre com foco em performance, segurança e experiência do usuário.<br><br>🔹 Atualmente atuo na Secretaria de Administração Penitenciária do Estado do Pará (SEAP), desenvolvendo soluções digitais para transformação do setor público, integrando dados e melhorando a eficiência dos processos internos.<br><br>💡 Já desenvolvi plataformas completas para os setores de educação, jurídico, energia solar, segurança pública e corporativo, utilizando boas práticas como POO, MVC, APIs REST e arquitetura modular.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Plataformas web responsivas, com arquitetura sólida (POO, MVC, APIs RESTful)<br>- Integrações com gateways de pagamento (PagSeguro, Marcado Pago, Stripe, etc), sistemas administrativos e landing pages otimizadas para conversão (SEO)<br>- Dashboards financeiros e operacionais com dados em tempo real<br>- Soluções para gestão educacional, jurídica e empresarial</p>
+<p align="left"> Plataformas web responsivas, com arquitetura sólida (POO, MVC, APIs RESTful)<br> Integrações com gateways de pagamento (PagSeguro, Marcado Pago, Stripe, etc), sistemas administrativos e landing pages otimizadas para conversão (SEO)<br> Dashboards financeiros e operacionais com dados em tempo real<br> Soluções para gestão educacional, jurídica e empresarial</p>
 
 ###
 
@@ -140,7 +140,7 @@
 
 ###
 
-<p align="left">- Plataforma EAD escalável com automação de pagamentos e controle completo de cursos, alunos e financeiro  <br>- Portal jurídico com agendamento online, CRM jurídico e landing page com geração de leads  <br>- ERP sob medida para empresa com múltiplos setores: contratos, RH, treinamentos e financeiro integrados  <br>- Sistema escolar completo com vestibular digital, boletins, gestão de turmas e painéis financeiros</p>
+<p align="left"> Plataforma EAD escalável com automação de pagamentos e controle completo de cursos, alunos e financeiro  <br> Portal jurídico com agendamento online, CRM jurídico e landing page com geração de leads  <br> ERP sob medida para empresa com múltiplos setores: contratos, RH, treinamentos e financeiro integrados  <br> Sistema escolar completo com vestibular digital, boletins, gestão de turmas e painéis financeiros</p>
 
 ###
 
