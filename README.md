@@ -165,8 +165,3 @@
   <img src="https://streak-stats.demolab.com?user=LucasWASilva&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/LucasWASilva/LucasWASilva/snake-output/snake.svg" alt="Snake animation" />
-
-###
